@@ -144,7 +144,7 @@ nav ul li a {
 .upcoming-events {
     text-align: center;
     letter-spacing: 1px;
-    margin: 70px;
+    margin: 70px 0;
 }
 
 .upcoming-events h2 {
