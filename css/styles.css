@@ -10,7 +10,7 @@
 body {
     background: #f8f8f8;
     font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1,
@@ -38,7 +38,7 @@ img {
 }
 
 .container {
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -92,6 +92,7 @@ nav ul li a {
 
 #over-nav {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    z-index: 2;
 }
 
 .fix-nav {
@@ -160,6 +161,7 @@ nav ul li a {
     border-radius: 8px;
     box-shadow: 10px 10px 10px gray;
     height: 300px;
+    object-fit: cover;
 }
 
 .col-1-2 a {

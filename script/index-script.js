@@ -1,4 +1,4 @@
-var fading = false;
+var fading = true;
 
 window.onscroll = function () {
     console.log(window.scrollY);
